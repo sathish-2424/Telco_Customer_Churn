@@ -1,5 +1,3 @@
-Here’s a **comprehensive README** for your Telco Customer Churn Analytics and Predictive Modeling project, ready to include with your work or share on GitHub, Kaggle, or in your portfolio. This README covers project goals, setup, usage, workflow, and key business/technical highlights.
-
 # 📊 Telco Customer Churn Analysis & Prediction
 
 ## Overview
