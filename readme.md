@@ -1,4 +1,5 @@
 # 📊 Telco Customer Churn Analysis & Prediction
+![Main Interface](./screenshot/image1.png)
 
 ## Overview
 
