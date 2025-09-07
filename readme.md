@@ -1,7 +1,3 @@
-Here’s a **professional and visually engaging ad-style project description** for your **Customer Churn Prediction Project**, perfect for a **portfolio website, LinkedIn post, or resume showcase**.
-
----
-
 ## 🔍 **Customer Churn Prediction Dashboard**
 
 **Predict. Prevent. Profit.**
